@@ -1,7 +1,7 @@
 # XMLParser
 A very simple java XMLParser in under 100 lines and in one single class!
 
-== EXAMPLES ==
+#EXAMPLES
 String xml =
                 "<import>" +
                     "<student id=1570900      course= TI test = HAI>" +
